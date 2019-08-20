@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/akhilcm/collegeform/issues"
   },
-  "homepage": "https://github.com/akhilcm/collegeform#readme"
+  "homepage": "https://github.com/akhilcm/collegeform#readme",
+  "dependencies": {
+    "mongoose": "^5.6.9",
+    "request": "^2.88.0"
+  }
 }
