@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/akhilcm/collegeform#readme",
   "dependencies": {
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0"
   }
 }
